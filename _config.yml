@@ -1,12 +1,30 @@
 # Site settings
-title: Spring Time
+title: Springkid developer notes
 email: jmgomezr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just a place to annotate ideas, works in progress and random stuff / Sólo un sitio donde anotar ideas, trabajos en marcha y cosas en general
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://erisso.com" # the base hostname & protocol for your site
 twitter_username: springkid
 github_username:  springkid
+timezone: Europe/Madrid
 
 # Build settings
 markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 5
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.0.1"
