@@ -9,8 +9,8 @@ layout: default
 
     <li class="post">
       <h2><a href="{{ prepend: site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <span class="by-line">{{ post.date | date_to_string }}</span>
-      <p>{{ post.content | strip_html | truncatewords:25 }}</p>
+      <span class="by-line">{{ post.date | date_to_string }} - {{ post.categories }}</span>
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>'}}</p>
     </li>
 
   {% endfor %}

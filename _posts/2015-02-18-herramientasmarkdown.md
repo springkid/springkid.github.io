@@ -2,7 +2,7 @@
 layout: post
 title:  "Herramientas Markdown"
 date:   2015-03-06 12:05:00
-categories: markdown batiburrillo
+categories: markdown, batiburrillo
 ---
 
 ###Markdown
