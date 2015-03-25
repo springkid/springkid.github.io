@@ -5,9 +5,7 @@ date:   2015-03-06 12:05:00
 categories: markdown, batiburrillo
 ---
 
-###Markdown
-
-Un listado de herramientas para visualizar y trabajar con Markdown
+Un par de herramientas para visualizar y trabajar con Markdown :
 
 - [Artículo de Mashable][mashable]
 - [Dillinger][Dillinger url] editor in the cloud, angularjs powered
