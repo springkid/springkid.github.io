@@ -3,6 +3,7 @@ layout: post
 title:  "Bitbucket Teams"
 date:   2015-03-27 12:55:00
 categories: git, bitbucket, collaboration
+tag: how-to
 ---
 
 [**Bitbucket**](http://www.bitbucket.org) no deja de sorprenderme.

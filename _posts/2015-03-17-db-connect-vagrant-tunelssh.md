@@ -2,6 +2,7 @@
 title:  "Conexi&oacute;n Base de datos con tunel SSH"
 date:   2015-03-23 12:08:00
 categories: config,vagrant,sql
+tag: how-to
 ---
 
 C&oacute;mo configurar una conexi&oacute;n a una BD en una MV Vagrant a trav&eacute;s de t&uacute;nel SSH.

@@ -2,6 +2,7 @@
 title:  "Generando parrafadas"
 date:   2015-03-25 16:33:00
 categories: tools,webdevelopment
+tag: tools
 ---
 
 Hoy he conocido [Blindtextgenerator](http://www.blindtextgenerator.com/lorem-ipsum), un generador de c&oacute;digo, perd&oacute;n, de textos que no es el t&iacute;pico lorem-ipsum.

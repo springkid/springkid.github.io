@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Control de dependencia"
+title:  "Control de dependencia con Composer"
 date:   2015-04-02 10:35:00
-categories: tutorial, composer, dependency management
+categories: composer, php
+tag: tutorial
 ---
 
 Composer es una herramienta que permite automatizar y estandarizar el desarrollo de proyectos PHP.
